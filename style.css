@@ -5,6 +5,14 @@
 body {
     background-image: linear-gradient( to right, #308cf4, #1C1D2C);
 }
+header{
+    background-color: white;
+    width: 300px;
+    width: 1000px;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #1C1D2C ;}
 div {
     background-color: white;
     min-width: 300px;
