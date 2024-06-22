@@ -7,8 +7,9 @@ body {
 }
 header{
     background-color: white;
-    width: 300px;
-    width: 1000px;
+    min-width: 300px ;
+    max-width: 1000px;
+    height: 6px;
     padding: 50px;
     margin: 10px;
     border-radius: 10px;
